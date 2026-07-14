@@ -3,22 +3,16 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <VSEOCLASS>
-    <CLSNAME>Z_DEMO_SQL_JOIN</CLSNAME>
+    <CLSNAME>ZBP_C_S4D400_6666_FL</CLSNAME>
     <LANGU>E</LANGU>
-    <DESCRIPT>SQL join demo</DESCRIPT>
+    <DESCRIPT>Projection Behavior Definition for ZC_S4D400_6666_FL</DESCRIPT>
+    <CATEGORY>06</CATEGORY>
     <STATE>1</STATE>
     <CLSCCINCL>X</CLSCCINCL>
     <FIXPT>X</FIXPT>
     <UNICODE>X</UNICODE>
+    <CLSDEFINT>ZC_S4D400_6666_FL</CLSDEFINT>
    </VSEOCLASS>
-   <TPOOL>
-    <item>
-     <ID>I</ID>
-     <KEY>001</KEY>
-     <ENTRY>--- 1. INNER JOIN: Carriers with Connections ---</ENTRY>
-     <LENGTH>96</LENGTH>
-    </item>
-   </TPOOL>
   </asx:values>
  </asx:abap>
 </abapGit>

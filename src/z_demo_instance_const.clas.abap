@@ -32,7 +32,7 @@ CLASS z_demo_instance_const IMPLEMENTATION.
   ENDMETHOD.
 
   METHOD if_oo_adt_classrun~main.
-*1. Create the instances with colors
+    " 1. Create the instances with colors
     DATA(car_red)   = NEW z_demo_instance_const( color = 'Red' ).
     DATA(car_blue)  = NEW z_demo_instance_const( color = 'Blue' ).
     DATA(car_green) = NEW z_demo_instance_const( color = 'Green' ).

@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service Definition for S4D400 demo'
+define service Z_UI_S4D400_FLIGHT_U1 {
+  expose Z_C_S4D400_Demo_1;
+}

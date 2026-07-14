@@ -1,0 +1,11 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "SAP Object Node Type ZS4D400_6666_CON",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "name": "ZS4D400_6666_CON",
+  "sapObjectType": "ZS4D400_6666_CON",
+  "rootNode": true
+}

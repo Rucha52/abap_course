@@ -1,0 +1,11 @@
+@EndUserText: {
+  label: 'Service Definition for ZC_S4D400_6666_FL'
+}
+@ObjectModel: {
+  leadingEntity: {
+    name: 'ZC_S4D400_6666_FL'
+  }
+}
+define service ZUI_S4D400_6666_FL_O4 provider contracts odata_v4_ui {
+  expose ZC_S4D400_6666_FL as Connection_2;
+}
